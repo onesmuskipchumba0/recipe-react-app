@@ -33,7 +33,7 @@ A React application for discovering and saving recipes, built with TypeScript an
 1. Clone the repository
 
 ```bash
-git clone https://github.com/onesmuskipchyumba0/recipe-react-app.git
+git clone https://github.com/onesmuskipchumba0/recipe-react-app.git
 ```
 2. Install Dependencies
 ```bash
@@ -48,7 +48,7 @@ npm run dev
 
 ## Contact
 
-- GitHub: [@onesmuskipchyumba0](https://github.com/onesmuskipchyumba0)
+- GitHub: [@onesmuskipchumba0](https://github.com/onesmuskipchumba0)
 - Email: onesmuskipchumba5@gmail.com
 
 ## License
